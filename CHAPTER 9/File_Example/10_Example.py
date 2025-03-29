@@ -11,7 +11,8 @@ file.close()
 """
 Creates a new file.
 Raises an error if the file already exists.
-Allows both reading (read()) and writing (write()).
+Allows both readi
+ng (read()) and writing (write()).
 
 """
 

@@ -1,0 +1,5 @@
+
+this is example of "a"
+"a+" this can continue the line
+this is example of "a"
+"a+" this can continue the line
