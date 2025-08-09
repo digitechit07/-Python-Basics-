@@ -6,7 +6,7 @@
 name ="goku and vegeta & gohan"
 print(len(name))
 print(name.endswith("han"))
-(name.startswith("goku"))
+print((name.startswith("goku")))
 print(name.capitalize())
 print(name.upper())
 print(name.title())

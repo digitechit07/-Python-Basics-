@@ -11,6 +11,8 @@ This is called tuple packing.
 
 Tuple = 10,20,30,40,50
 print(type(Tuple))
+Tuple2 = "jay","Aman","Ram","Jivan","Ravan"
+print(Tuple2)
 
 
 """
@@ -70,3 +72,6 @@ type_tuple =("string",10,False,True)
 print(type_tuple)
 print(type(type_tuple))
 
+variableTuple = 10,20,30,40
+print(variableTuple)
+print(type(variableTuple))

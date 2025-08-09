@@ -6,7 +6,6 @@ def vowel_counts(string):
     for char in string :
         if char in vowel:
             count +=1
-            print(vowel)
     return count
 
 text = input("Enter a sting : ")
